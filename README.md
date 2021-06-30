@@ -1,2 +1,2 @@
 # Python-Project-
-To create applications using python
+cREATED AN ONLINE NETBANKING APPLICATION USING PYTHON
